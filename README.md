@@ -10,5 +10,5 @@ apt install python -y
 pip install colorama
 git clone https://github.com/Ehmunna/EH-GPHIS.git
 cd EH-GPHIS
-python GFISH.py
+python EH-FB.py
 ```
